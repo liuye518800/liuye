@@ -14,7 +14,7 @@ public class LytesApplication {
     }
     @PostConstruct
     public void todosou(){
-        System.out.println("测试输出正确==========================================123");
+        System.out.println("测试输出正确==========================================1111111");
         System.out.println("测试输出正确==========================================1345");
         System.out.println("测试==========================================222222");
     }
